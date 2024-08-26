@@ -6,7 +6,7 @@ title: "EVS-GIS projects"
 
 ## glourbapp
 
-⚙️ [https://isig-apps.ens-lyon.fr/apps/glourb/glourbapp/](https://isig-apps.ens-lyon.fr/apps/glourb/riviewlet/)
+⚙️ <https://isig-apps.ens-lyon.fr/apps/glourb/glourbapp/>
 
 This app (still in development) shows the **results of the \[GloUrb project\](<https://glourb.universite-lyon.fr/>)**, which deals with the global urbanization of floodplains and its consequences.
 
@@ -24,7 +24,7 @@ This app deals with **time or spatial series** and helps **apply and interpret w
 
 ## mapdO
 
-⚙️ [https://isig-apps.ens-lyon.fr/apps/mapdo/mapdoapp/](https://isig-apps.ens-lyon.fr/apps/lvaudor/waveleT/){.uri}
+⚙️ <https://isig-apps.ens-lyon.fr/apps/mapdo/mapdoapp/>
 
 This app helps **visualizing and analyzing metrics describing river networks**. It builds on data extracted with the FCT toolbox (see below).
 
