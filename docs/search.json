@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "EVS-GIS projects",
     "section": "",
-    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/glourbapp/\nThis app (still in development) shows the results of the [GloUrb project](https://glourb.universite-lyon.fr/), which deals with the global urbanization of floodplains and its consequences.\n\n\n\n⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/riviewlet/\nThis app (still in development) describes fluvial corridors in time and space using data extracted by Google Earth Engine through the [glourbee](https://github.com/EVS-GIS/glourbee) user interface.\n\n\n\n⚙️ https://isig-apps.ens-lyon.fr/apps/lvaudor/waveleT/\nThis app deals with time or spatial series and helps apply and interpret wavelet transforms of the data, enabling a multi-scalar analysis."
+    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/glourbapp/\nThis app (still in development) shows the results of the [GloUrb project](https://glourb.universite-lyon.fr/), which deals with the global urbanization of floodplains and its consequences.\n\n\n\n⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/riviewlet/\nThis app (still in development) describes fluvial corridors in time and space using data extracted by Google Earth Engine through the [glourbee](https://github.com/EVS-GIS/glourbee) user interface.\n\n\n\n⚙️ https://isig-apps.ens-lyon.fr/apps/lvaudor/waveleT/\nThis app deals with time or spatial series and helps apply and interpret wavelet transforms of the data, enabling a multi-scalar analysis.\n\n\n\n⚙️ https://isig-apps.ens-lyon.fr/apps/mapdo/mapdoapp/\nThis app helps visualizing and analyzing metrics describing river networks. It builds on data extracted with the FCT toolbox (see below)."
   },
   {
     "objectID": "index.html#glourbapp",
@@ -47,5 +47,12 @@
     "title": "About",
     "section": "",
     "text": "This site is about the development projects of [EVS](https://umr5600.cnrs.fr/). The source code corresponding to the various projects (apps, toolboxes, etc.) is generally shared under the [EVS-GIS github organization](https://github.com/EVS-GIS)."
+  },
+  {
+    "objectID": "index.html#mapdo",
+    "href": "index.html#mapdo",
+    "title": "EVS-GIS projects",
+    "section": "",
+    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/mapdo/mapdoapp/\nThis app helps visualizing and analyzing metrics describing river networks. It builds on data extracted with the FCT toolbox (see below)."
   }
 ]

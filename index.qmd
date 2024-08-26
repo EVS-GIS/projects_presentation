@@ -22,6 +22,12 @@ This app (still in development) describes fluvial corridors in **time** and **sp
 
 This app deals with **time or spatial series** and helps **apply and interpret wavelet transforms of the data**, enabling a **multi-scalar analysis**.
 
+## mapdO
+
+⚙️ [https://isig-apps.ens-lyon.fr/apps/mapdo/mapdoapp/](https://isig-apps.ens-lyon.fr/apps/lvaudor/waveleT/){.uri}
+
+This app helps **visualizing and analyzing metrics describing river networks**. It builds on data extracted with the FCT toolbox (see below).
+
 # Toolboxes
 
 ## Fluvial Corridor Toolbox (FCT)
