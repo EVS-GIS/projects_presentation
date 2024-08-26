@@ -4,41 +4,41 @@
     "href": "index.html",
     "title": "EVS-GIS projects",
     "section": "",
-    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/glourbapp/\n\n\n\n⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/riviewlet/\n\n\n\n⚙️ https://isig-apps.ens-lyon.fr/apps/lvaudor/waveleT/"
+    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/glourbapp/\nThis app (still in development) shows the results of the [GloUrb project](https://glourb.universite-lyon.fr/), which deals with the global urbanization of floodplains and its consequences.\n\n\n\n⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/riviewlet/\nThis app (still in development) describes fluvial corridors in time and space using data extracted by Google Earth Engine through the [glourbee](https://github.com/EVS-GIS/glourbee) user interface.\n\n\n\n⚙️ https://isig-apps.ens-lyon.fr/apps/lvaudor/waveleT/\nThis app deals with time or spatial series and helps apply and interpret wavelet transforms of the data, enabling a multi-scalar analysis."
   },
   {
     "objectID": "index.html#glourbapp",
     "href": "index.html#glourbapp",
     "title": "EVS-GIS projects",
     "section": "",
-    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/glourbapp/"
+    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/glourbapp/\nThis app (still in development) shows the results of the [GloUrb project](https://glourb.universite-lyon.fr/), which deals with the global urbanization of floodplains and its consequences."
   },
   {
     "objectID": "index.html#riviewlet",
     "href": "index.html#riviewlet",
     "title": "EVS-GIS projects",
     "section": "",
-    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/riviewlet/"
+    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/glourb/riviewlet/\nThis app (still in development) describes fluvial corridors in time and space using data extracted by Google Earth Engine through the [glourbee](https://github.com/EVS-GIS/glourbee) user interface."
   },
   {
     "objectID": "index.html#wavelet",
     "href": "index.html#wavelet",
     "title": "EVS-GIS projects",
     "section": "",
-    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/lvaudor/waveleT/"
+    "text": "⚙️ https://isig-apps.ens-lyon.fr/apps/lvaudor/waveleT/\nThis app deals with time or spatial series and helps apply and interpret wavelet transforms of the data, enabling a multi-scalar analysis."
   },
   {
     "objectID": "index.html#fluvial-corridor-toolbox-fct",
     "href": "index.html#fluvial-corridor-toolbox-fct",
     "title": "EVS-GIS projects",
     "section": "Fluvial Corridor Toolbox (FCT)",
-    "text": "Fluvial Corridor Toolbox (FCT)"
+    "text": "Fluvial Corridor Toolbox (FCT)\n🔗 https://github.com/EVS-GIS/python-fct\nThe FCT toolbox enables mapping fluvial corridors and measuring river features from very large datasets."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#glourbee",
+    "href": "index.html#glourbee",
+    "title": "EVS-GIS projects",
+    "section": "glourbee",
+    "text": "glourbee\n🔗 https://github.com/EVS-GIS/glourbee\nglourbee uses Google Earth Engine to extract metrics through time on river corridors reaches."
   }
 ]

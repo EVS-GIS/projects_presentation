@@ -8,14 +8,30 @@ title: "EVS-GIS projects"
 
 ⚙️ [https://isig-apps.ens-lyon.fr/apps/glourb/glourbapp/](https://isig-apps.ens-lyon.fr/apps/glourb/riviewlet/)
 
+This app (still in development) shows the **results of the \[GloUrb project\](<https://glourb.universite-lyon.fr/>)**, which deals with the global urbanization of floodplains and its consequences.
+
 ## riviewlet
 
 ⚙️ <https://isig-apps.ens-lyon.fr/apps/glourb/riviewlet/>
+
+This app (still in development) describes fluvial corridors in **time** and **space** using data extracted by **Google Earth** Engine through the \[glourbee\](<https://github.com/EVS-GIS/glourbee>) user interface.
 
 ## waveleT
 
 ⚙️ <https://isig-apps.ens-lyon.fr/apps/lvaudor/waveleT/>
 
+This app deals with **time or spatial series** and helps **apply and interpret wavelet transforms of the data**, enabling a **multi-scalar analysis**.
+
 # Toolboxes
 
 ## Fluvial Corridor Toolbox (FCT)
+
+🔗 <https://github.com/EVS-GIS/python-fct>
+
+The FCT toolbox enables **mapping fluvial corridors** and **measuring river features** from very large datasets.
+
+## glourbee
+
+🔗 <https://github.com/EVS-GIS/glourbee>
+
+glourbee uses **Google Earth Engine** to **extract metrics through time** on **river corridors reaches**.
