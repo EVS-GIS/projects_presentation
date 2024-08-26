@@ -40,5 +40,12 @@
     "title": "EVS-GIS projects",
     "section": "glourbee",
     "text": "glourbee\n🔗 https://github.com/EVS-GIS/glourbee\nglourbee uses Google Earth Engine to extract metrics through time on river corridors reaches."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site is about the development projects of [EVS](https://umr5600.cnrs.fr/). The source code corresponding to the various projects (apps, toolboxes, etc.) is generally shared under the [EVS-GIS github organization](https://github.com/EVS-GIS)."
   }
 ]
